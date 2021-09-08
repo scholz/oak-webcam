@@ -16,9 +16,9 @@ https://github.com/letmaik/pyvirtualcam
 Then run python oak-webcam.py and test the webcam eg.
 using https://www.vidyard.com/cam-test/.
 
-Note: cam will not work in Windows 10 camera viewer.
+Note: cam will not show up in Windows 10 camera viewer but does work in browser and teams, etc.
 
 
 # credits
-https://blog.ml6.eu/the-opencv-ai-kit-80215f4d1ba2
-https://docs.luxonis.com/projects/api/en/latest/samples/rgb_preview/
+* https://blog.ml6.eu/the-opencv-ai-kit-80215f4d1ba2
+* https://docs.luxonis.com/projects/api/en/latest/samples/rgb_preview/
