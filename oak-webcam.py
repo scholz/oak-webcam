@@ -9,6 +9,7 @@ pipeline = dai.Pipeline()
 
 # Define source and output
 camRgb = pipeline.createColorCamera()
+# cam.initialControl.setManualFocus(130)
 xoutVideo = pipeline.createXLinkOut()
 xoutVideo.setStreamName("video")
 
