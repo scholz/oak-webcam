@@ -1,5 +1,5 @@
 # oak-webcam
-webcam project for oak-d
+Use your oak (https://store.opencv.ai/products/oak-d) as webcam.
 
 # instructions
 In cmd.exe in windows navigate to git folder and run.
