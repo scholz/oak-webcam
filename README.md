@@ -1,5 +1,8 @@
 # oak-webcam
-Use your oak (https://store.opencv.ai/products/oak-d) as webcam and as cartoonizing webcam.
+Use your OAK-D (https://store.opencv.ai/products/) as webcam and as cartoonizing webcam.
+Tested this with:
+* OAK-D-Lite (https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9095.html)
+* OAK-D (https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html)
 
 # instructions
 In cmd.exe in windows navigate to git folder and run.
